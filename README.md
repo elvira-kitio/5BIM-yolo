@@ -35,4 +35,5 @@ YoloDetector : Utilise le modèle YOLO pour détecter les objets.
 DetectionSystem : Intègre ImageLoader et YoloDetector pour le traitement complet de l'image ou du flux vidéo.
 
 Contributeurs
-KITIO Elvira
+Elvira KITIO DJOUAKA 
+
